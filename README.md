@@ -16,5 +16,5 @@ Moim nadrzędnym celem jest:
 Jeśli chcesz się skontaktować, możesz wysłać wiadomość na mój superzaawansowany elektroniczny adres komunikacyjny, który jest napędzany przez Spacemail (nie sponsorowane):
 [bardzopowaznybizneselektroniczny@gayfurry.pics](mailto:bardzopowaznybizneselektroniczny@gayfurry.pics)
 
-Platformy społecznościowe, na których uczęszczam i jestem aktywny
+Platformy społecznościowe, na których uczęszczam i jestem aktywny:
 - [platforma popsuta przez elona maska, która wcześniej się nazywała twitter](https://twitter.com/spawnfur)
