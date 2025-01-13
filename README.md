@@ -1,4 +1,4 @@
-Witaj na mojej nieprzeciętnie sformalizowanej przestrzeni programistycznej, którą niektórzy mogliby określić mianem "kroniki rozwoju cyfrowo-inżynieryjnych umiejętności".
+**Witaj na mojej nieprzeciętnie sformalizowanej przestrzeni programistycznej, którą niektórzy mogliby określić mianem "kroniki rozwoju cyfrowo-inżynieryjnych umiejętności".**
 
 Jestem dwudziestonastoletnim programistą-poligotą z trzydziestoletnim doświadczeniem specializującym się:
 - zaawansowaną administracją serwerowo-dedykowanych baz danych wielowymiarowych,
