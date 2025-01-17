@@ -1,6 +1,6 @@
 **Witaj na mojej nieprzeciętnie sformalizowanej przestrzeni programistycznej, którą niektórzy mogliby określić mianem "kroniki rozwoju cyfrowo-inżynieryjnych umiejętności".**
 
-Jestem dwudziestonastoletnim programistą-poligotą z trzydziestoletnim doświadczeniem specializującym się:
+Jestem dwudziestoletnim programistą-poligotą z trzydziestoletnim doświadczeniem specializującym się:
 - zaawansowaną administracją serwerowo-dedykowanych baz danych wielowymiarowych,
 - kompleksowej konfiguracji hiperkontekstowych interfejsów użytkownika opartych na technologiach międzynarodowych standardów sieciowych,
 - skomputeryzowanej implementacji wielowarstwowych środowisk wizualno-logicznych.
