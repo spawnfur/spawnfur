@@ -5,7 +5,7 @@ Jestem dwudziestoletnim programistą-poligotą z trzydziestoletnim doświadczeni
 - kompleksowej konfiguracji hiperkontekstowych interfejsów użytkownika opartych na technologiach międzynarodowych standardów sieciowych,
 - skomputeryzowanej implementacji wielowarstwowych środowisk wizualno-logicznych.
 
-Oraz ponieważ jestem futrzakiem, udaję kota na internecie :3
+Oraz ponieważ jestem [futrzakiem](https://pl.wikipedia.org/wiki/Furry), udaję kota na internecie :3
 
 Moim nadrzędnym celem jest:
 1. Rozwój antydysestablishmentariańsko-hiperkwazilogicznych rozwiązań wspierających transformację cyfrową,
